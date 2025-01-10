@@ -1,3 +1,13 @@
+# Text Emotion Detection
+The goal of this project is to determine emotions the user based on a part of a text.
+
+## To-do list
+[] Improve Logic
+[] Make a new dataset
+[] Feed the dataset with new datas such as donations made by users (ex: google form)
+[] Retrain the model on the new dataset
+
+
 # Emotion Detection in Text using Natural Language Processing
 
 <img src="./images/index.png"/>
