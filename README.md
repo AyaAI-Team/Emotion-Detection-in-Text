@@ -1,5 +1,7 @@
 # Text Emotion Detection
 The goal of this project is to determine emotions the user based on a part of a text.
+> You can support the project by helping to train the Emotion Recogniser, it's really simple and take five minutes of your time !
+> [Help the project](https://forms.gle/NiAf3xgcEk14PypK7)
 
 ## To-do list
 - [ ] Improve Logic
